@@ -16,7 +16,7 @@
 
 <table id="table_truckDetails">
     <thead>
-        <tr><th>No of Trucks</th>
+        <tr><th>Number of Trucks</th>
             <th>Capacity of Trucks</th>
         </tr>
     </thead>
