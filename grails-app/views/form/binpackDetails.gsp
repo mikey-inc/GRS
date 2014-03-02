@@ -7,7 +7,7 @@
 <body>
 <br>
 <div style="align: center;">
-    <h2 style="color: #333333;">Freight Balancer</h2>
+    <h2 style="color: #333333;">Freight Balancer asdf a</h2>
 
 <br>
 <!-- <g:submitButton name="addTruck" value="" /> --> 
