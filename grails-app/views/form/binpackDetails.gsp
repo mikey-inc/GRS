@@ -7,7 +7,7 @@
 <body>
 <br>
 <div style="align: center;">
-    <h2 style="color: #333333;">Freight Load Optimizer</h2>
+    <h2 style="color: #333333;">Freight Cap Optimizer</h2>
 
 <br>
 <!-- <g:submitButton name="addTruck" value="" /> --> 
