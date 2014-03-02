@@ -7,11 +7,11 @@
 <body>
 <br>
 <div style="align: center;">
-    <h2 style="color: #333333;">Freight Capacity Optimizer</h2>
+    <h2 style="color: #333333;">Freight Load Balancer</h2>
 
 <br>
 <!-- <g:submitButton name="addTruck" value="" /> --> 
-<!-- <g:actionSubmit value="Add Truck" onclick="addTruckRow()" /> -->
+<!-- <g:actionSubmit value="Add a Truck" onclick="addTruckRow()" /> -->
 <g:form action="pack">
 
 <table id="table_truckDetails">
